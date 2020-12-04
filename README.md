@@ -2,7 +2,7 @@
 
 This repository contains justified access graphs for the following Late Bronze Age buildings at Ugarit: the Royal Palace, the House of Yabninu, and the House of Rapanu. All graphs were created in Gephi [1] and published to a github page using the Oxford Internet Institute's SigmaExporter Plugin For Gephi [2].
 
-[1] https://gephi.org/
+[1] https://gephi.org/  
 [2] https://github.com/oxfordinternetinstitute/gephi-plugins/tree/sigmaexporter-plugin/modules/sigmaExporter
 
 # Method
@@ -16,6 +16,6 @@ Volodymyr Miz has written a very clear and useful tutorial on publishing to the 
 
 Ostwald 2011 gives a recent overview of justified access graphs [4]. A broader, more recent discussion of Space Syntax in general can be found in Dawes and Ostwald 2018 [5].
 
-[3] https://blog.miz.space/tutorial/2020/01/05/gephi-tutorial-sigma-js-plugin-publishing-interactive-graph-online/
-[4] https://doi.org/10.1007/s00004-011-0075-3
+[3] https://blog.miz.space/tutorial/2020/01/05/gephi-tutorial-sigma-js-plugin-publishing-interactive-graph-online/  
+[4] https://doi.org/10.1007/s00004-011-0075-3  
 [5] https://doi.org/10.1007/978-3-319-70658-0_6-1
