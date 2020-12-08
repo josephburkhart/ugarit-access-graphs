@@ -7,7 +7,7 @@ The Justified Access Graph for the House of Yabninu is at https://botdoubt.githu
 
 The _config.json_ file for each graph was modified as follows:  
 `
-"labelThreshold": 5  
+"labelThreshold": 5,
 "defaultEdgeType": "line",
 ` 
 
