@@ -5,9 +5,9 @@ This repository contains justified access graphs for the following buildings at 
 The Justified Access Graph for the Royal Palace is at https://botdoubt.github.io/ugarit-access-graphs/RoyalPalace.  
 The Justified Access Graph for the House of Yabninu is at https://botdoubt.github.io/ugarit-access-graphs/YabninuHouse.  
 
-The _config.json_ file for each graph was modified as follows:
+The _config.json_ file for each graph was modified as follows:  
 `
-"labelThreshold": 5
+"labelThreshold": 5  
 "defaultEdgeType": "line",
 ` 
 
