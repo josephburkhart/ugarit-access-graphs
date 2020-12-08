@@ -9,7 +9,7 @@ This repository contains justified access graphs for the following buildings at 
 Access graphs represent the configurations of spaces in buildings and other built environments using networks of nodes and edges. By showing how spaces (represented by circular nodes) are joined together by doorways and other thresholds (represented by linear edges), access graphs can highlight patterns of movement, access, and control within a structure. When an access graph is "justified," it is arranged so that each space is aligned with all other spaces at the same "depth" (that is, the same number of edges) away from the outside. The outside is conventionally called the "carrier," and is represented by `+`.
 
 # Data
-All graphs were created using floorplans presented in Marguierite Yon's (2006) _The City of Ugarit at Tell Ras Shamra_.
+All graphs were created using floorplans presented in Marguerite Yon's (2006) _The City of Ugarit at Tell Ras Shamra_.
 
 # Additional Resources
 Volodymyr Miz has written a very clear and useful tutorial on publishing to the web using the SigmaExporter Plugin [3]. 
