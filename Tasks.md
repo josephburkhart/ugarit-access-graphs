@@ -3,3 +3,4 @@
 - [ ] Upload graph for the Royal Palace
 - [ ] Upload graph for the House of Yabninu
 - [ ] Upload graph for the House of Rapanu
+- [ ] Check room types
