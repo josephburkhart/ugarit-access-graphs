@@ -8,9 +8,9 @@
     "text": "Joseph"
   },
   "text": {
-    "more": "Test graph of the royal palace",
-    "intro": "Test graph of the Royal Palace",
-    "title": "TestGraph_RoyalPalace"
+    "more": "",
+    "intro": "This JAG indicates how convex spaces connect with one another in the royal palace of Ugarit: courtyards are green, tombs are brown, staircases are blue-purple, and spaces on an upper floor are pink. ",
+    "title": "JAG of the Royal Palace (v0.7.5)"
   },
   "legend": {
     "edgeLabel": "Door or other connection",
