@@ -8,9 +8,9 @@
     "text": "Joseph"
   },
   "text": {
-    "more": "Test graph of the House of Yabninu",
-    "intro": "Test graph of the House of Yabninu",
-    "title": "TestGraph_RoyalPalace"
+    "more": "",
+    "intro": "This JAG indicates how convex spaces connect with one another in the House of Yabninu of Ugarit: courtyards are green, tombs are brown, staircases are blue-purple, and spaces on an upper floor are pink. ",
+    "title": "JAG of the House of Yabninu at Ugarit (v0.7.1)"
   },
   "legend": {
     "edgeLabel": "Door or other connection",
@@ -28,12 +28,12 @@
   },
   "sigma": {
     "drawingProperties": {
-      "defaultEdgeType": "curve",
+      "defaultEdgeType": "line",
       "defaultHoverLabelBGColor": "#002147",
       "defaultLabelBGColor": "#ddd",
       "activeFontStyle": "bold",
       "defaultLabelColor": "#000",
-      "labelThreshold": 5,
+      "labelThreshold": 10,
       "defaultLabelHoverColor": "#fff",
       "fontStyle": "bold",
       "hoverFontStyle": "bold",
