@@ -1,9 +1,9 @@
 # Introduction
 
-This repository contains justified access graphs for the following buildings at Late Bronze Age Ugarit: the Royal Palace, the House of Yabninu, and the House of Rapanu. All graphs were created in Gephi [1] and published to a github page using the Oxford Internet Institute's SigmaExporter Plugin For Gephi [2]. The URL for the github page is https://botdoubt.github.io/ugarit-access-graphs/.
+This repository contains justified access graphs for the following buildings at Late Bronze Age Ugarit: the Royal Palace, the House of Yabninu, and the House of Rapanu. All graphs were created in Gephi [1] and published to a github page using the Oxford Internet Institute's SigmaExporter Plugin For Gephi [2]. The URL for the github page is [https://josephburkhart.github.io/ugarit-access-graphs/](https://josephburkhart.github.io/ugarit-access-graphs/).
 
-The Justified Access Graph for the Royal Palace is at https://botdoubt.github.io/ugarit-access-graphs/RoyalPalace.  
-The Justified Access Graph for the House of Yabninu is at https://botdoubt.github.io/ugarit-access-graphs/YabninuHouse.  
+The Justified Access Graph for the Royal Palace is at [https://josephburkhart.github.io/ugarit-access-graphs/RoyalPalace](https://josephburkhart.github.io/ugarit-access-graphs/RoyalPalace).  
+The Justified Access Graph for the House of Yabninu is at [https://josephburkhart.github.io/ugarit-access-graphs/YabninuHouse](https://josephburkhart.github.io/ugarit-access-graphs/YabninuHouse).  
 
 The _config.json_ file for each graph was modified as follows:  
 ```
