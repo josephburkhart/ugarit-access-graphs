@@ -14,9 +14,8 @@ The _config.json_ file for each graph was modified as follows:
     "defaultEdgeType": "line"
 ``` 
 
-[1] [https://gephi.org/](https://gephi.org/)
-
-[2] [https://github.com/oxfordinternetinstitute/gephi-plugins/tree/sigmaexporter-plugin/modules/sigmaExporter](https://github.com/oxfordinternetinstitute/gephi-plugins/tree/sigmaexporter-plugin/modules/sigmaExporter)
+\[1\] [https://gephi.org/](https://gephi.org/)
+\[2\] [https://github.com/oxfordinternetinstitute/gephi-plugins/tree/sigmaexporter-plugin/modules/sigmaExporter](https://github.com/oxfordinternetinstitute/gephi-plugins/tree/sigmaexporter-plugin/modules/sigmaExporter)
 
 # Method
 Access graphs represent the configurations of spaces in buildings and other built environments using networks of nodes and edges. By showing how spaces (represented by circular nodes) are joined together by doorways and other thresholds (represented by linear edges), access graphs can highlight patterns of movement, access, and control within a structure. When an access graph is "justified," it is arranged so that each space is aligned with all other spaces at the same "depth" (that is, the same number of edges) away from the outside. The outside is conventionally called the "carrier," and is represented by `+`.
@@ -29,8 +28,6 @@ Volodymyr Miz has written a very clear and useful tutorial on publishing to the 
 
 Ostwald 2011 gives a recent overview of justified access graphs [4]. A broader, more recent discussion of Space Syntax in general can be found in Dawes and Ostwald 2018 [5].
 
-[3] [https://blog.miz.space/tutorial/2020/01/05/gephi-tutorial-sigma-js-plugin-publishing-interactive-graph-online/](https://blog.miz.space/tutorial/2020/01/05/gephi-tutorial-sigma-js-plugin-publishing-interactive-graph-online/)
-
-[4] [https://doi.org/10.1007/s00004-011-0075-3](https://doi.org/10.1007/s00004-011-0075-3)
-
-[5] [https://doi.org/10.1007/978-3-319-70658-0_6-1](https://doi.org/10.1007/978-3-319-70658-0_6-1)
+\[3\] [https://blog.miz.space/tutorial/2020/01/05/gephi-tutorial-sigma-js-plugin-publishing-interactive-graph-online/](https://blog.miz.space/tutorial/2020/01/05/gephi-tutorial-sigma-js-plugin-publishing-interactive-graph-online/)
+\[4\] [https://doi.org/10.1007/s00004-011-0075-3](https://doi.org/10.1007/s00004-011-0075-3)
+\[5\] [https://doi.org/10.1007/978-3-319-70658-0_6-1](https://doi.org/10.1007/978-3-319-70658-0_6-1)
